@@ -3,6 +3,8 @@
 I'm a mostly self taught hobbyist and I am currently studying Computer Science at A level.
 I predominantly use Python but I also dabble in JavaScript and C family languages.
 
+[![Profile Stats](https://github-readme-stats.vercel.app/api?username=r-jay-dev&theme=dark&hide_border=1&show_icons=true)](https://github.com/r-jay-dev)
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r-jay-dev&layout=compact&theme=dark&hide_border=1)](https://github.com/r-jay-dev)
 
 ###### :D
