@@ -1,10 +1,12 @@
-### Hi there 👋
+## Hi, I'm Jay
+###### They/them
+I'm a mostly self taught hobbyist and I am currently studying Computer Science at A level.
+I predominantly use Python but I also dabble in JavaScript and C family languages.
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r-jay-dev&layout=compact&theme=dark&hide_border=1)](https://github.com/r-jay-dev)
+
+###### :D
 <!--
-**r-jay-dev/r-jay-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
