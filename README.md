@@ -1,5 +1,5 @@
-## Hi, I'm Jay
-###### They/them
+## Hi, I'm Olivia
+###### They/She
 I'm a mostly self taught hobbyist and I am currently studying Computer Science at A level.
 I predominantly use Python but I also dabble in JavaScript and C family languages.
 
