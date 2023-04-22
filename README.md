@@ -1,7 +1,7 @@
 ## Hi, I'm Olivia
 ###### They/She
-I'm a mostly self taught hobbyist and I am currently studying Computer Science at A level.
-I predominantly use Python but I also dabble in JavaScript and C family languages.
+Uni student studying compsci and maths.
+I mostly use Python but am fairly flexible if needs be.
 
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=olivi-r&theme=dark&hide_border=1&show_icons=true)
 
